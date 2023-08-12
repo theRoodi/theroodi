@@ -26,7 +26,10 @@ You can send me email or text me in Telegram</br></br>
 <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt='css'/>
 <img src=https://img.shields.io/badge/storybook-pink?logo=storybook&logoColor=grey&style=for-the-badge alt='storybook'/>
 <img src=https://img.shields.io/badge/TDD-pink?logo=TDD&logoColor=white&style=for-the-badge alt='TDD'/> 
-</div>
+</div><br/><br/><br/><br/><br/><br/>
+ <a>
+     <img src="https://komarev.com/ghpvc/?username=theroodi"/>
+ </a>
 
 
 

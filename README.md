@@ -7,7 +7,7 @@ You can send me email or text me in Telegram</br></br>
  </a>
  <a href='https://t.me/theroodi'>
     <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white />
- </a><br/>
+ </a><br/> 
  <a href='https://theroodi.github.io/portfolio'>
     <img src=https://img.shields.io/website-up-down-green-red/http/theroodi.github.io/portfolio />
  </a>
@@ -26,7 +26,12 @@ You can send me email or text me in Telegram</br></br>
 <a href='#'style="cursor: pointer"><img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt='css'/></a>
 <a href='#'style="cursor: pointer"><img src=https://img.shields.io/badge/storybook-pink?logo=storybook&logoColor=grey&style=for-the-badge alt='storybook'/></a>
 <a href='#'style="cursor: pointer"><img src=https://img.shields.io/badge/TDD-pink?logo=TDD&logoColor=white&style=for-the-badge alt='TDD'/></a>
-</div><br/><br/><br/><br/><br/><br/>
+<a href='#'style="cursor: pointer"><img src=https://img.shields.io/badge/rtk-593D88?style=for-the-badge&logo=rtk&logoColor=white alt='rtk'/></a> 
+</div><br/>
+<a href='#'style="cursor: pointer"> 
+    <img src="https://www.codewars.com/users/theroodi/badges/micro" />
+</a>
+<br/><br/><br/><br/><br/><br/>
 <a href='#'style="cursor: pointer">
      <img src="https://komarev.com/ghpvc/?username=theroodi"/>
  </a>
